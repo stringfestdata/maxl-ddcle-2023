@@ -1,0 +1,5 @@
+- Create a minimally reproducible example using common datasets
+- Read in a CSV file from Bing
+- Paste in a Markdown table
+- Use Python to generate synthetic data
+- Write tutorial prompts
